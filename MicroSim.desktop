@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0.2
 Name=MicroSim 1.0.2
-Path=/home/tanmay/Downloads/InfileGenerator
-Exec=InfileGenerator
+Path=/opt/InfileGenerator
+Exec=/opt/InfileGenerator/InfileGenerator
 Terminal=false
-Icon=/home/tanmay/Downloads/InfileGenerator/resources/MicroSim_Logo.png
+Icon=/opt/InfileGenerator/resources/MicroSim_Logo.png
 Type=Application
